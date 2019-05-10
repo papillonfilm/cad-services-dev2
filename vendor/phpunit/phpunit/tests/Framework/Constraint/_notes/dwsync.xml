@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayHasKeyTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="ArraySubsetTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="AttributeTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="CallbackTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="ClassHasAttributeTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="ClassHasStaticAttributeTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="ConstraintTestCase.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="CountTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="DirectoryExistsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="ExceptionMessageRegExpTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="ExceptionMessageTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="FileExistsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="GreaterThanTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="IsEmptyTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="IsEqualTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="IsIdenticalTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="IsInstanceOfTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="IsJsonTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="IsNullTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="IsReadableTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="IsTypeTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="IsWritableTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="JsonMatchesErrorMessageProviderTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="JsonMatchesTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="LessThanTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="LogicalAndTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="LogicalOrTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="LogicalXorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="ObjectHasAttributeTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="RegularExpressionTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="SameSizeTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="StringContainsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="StringEndsWithTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="StringMatchesFormatDescriptionTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="StringStartsWithTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TraversableContainsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+</dwsync>

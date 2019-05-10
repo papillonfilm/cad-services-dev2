@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="CsvFileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="FileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="IcuDatFileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="IcuResFileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="IniFileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="JsonFileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="LoaderInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="MoFileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="PhpFileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="PoFileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="QtFileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="XliffFileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="YamlFileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+</dwsync>

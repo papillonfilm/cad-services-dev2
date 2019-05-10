@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClosureValidationRule.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="composer.json" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="DatabasePresenceVerifier.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="Factory.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="PresenceVerifierInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="Rule.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="UnauthorizedException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="ValidatesWhenResolvedTrait.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="ValidationData.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="ValidationException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="ValidationRuleParser.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="ValidationServiceProvider.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="Validator.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+</dwsync>

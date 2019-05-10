@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AddressLiteral.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579036421330" remote="131774393210000000" Dst="2" />
+<file name="CFWSNearAt.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579036481336" remote="131774393210000000" Dst="2" />
+<file name="CFWSWithFWS.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579036541342" remote="131774393210000000" Dst="2" />
+<file name="Comment.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579036611349" remote="131774393210000000" Dst="2" />
+<file name="DeprecatedComment.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579036681356" remote="131774393210000000" Dst="2" />
+<file name="DomainLiteral.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579036751363" remote="131774393210000000" Dst="2" />
+<file name="DomainTooLong.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579036811369" remote="131774393210000000" Dst="2" />
+<file name="EmailTooLong.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579036881376" remote="131774393210000000" Dst="2" />
+<file name="IPV6BadChar.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579036951383" remote="131774393210000000" Dst="2" />
+<file name="IPV6ColonEnd.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037011389" remote="131774393210000000" Dst="2" />
+<file name="IPV6ColonStart.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037081396" remote="131774393210000000" Dst="2" />
+<file name="IPV6Deprecated.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037141402" remote="131774393210000000" Dst="2" />
+<file name="IPV6DoubleColon.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037201408" remote="131774393210000000" Dst="2" />
+<file name="IPV6GroupCount.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037271415" remote="131774393210000000" Dst="2" />
+<file name="IPV6MaxGroups.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037341422" remote="131774393210000000" Dst="2" />
+<file name="LabelTooLong.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037401428" remote="131774393210000000" Dst="2" />
+<file name="LocalTooLong.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037461434" remote="131774393210000000" Dst="2" />
+<file name="NoDNSMXRecord.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037531441" remote="131774393210000000" Dst="2" />
+<file name="ObsoleteDTEXT.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037611449" remote="131774393210000000" Dst="2" />
+<file name="QuotedPart.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037671455" remote="131774393210000000" Dst="2" />
+<file name="QuotedString.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037741462" remote="131774393210000000" Dst="2" />
+<file name="TLD.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037811469" remote="131774393210000000" Dst="2" />
+<file name="Warning.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579037881476" remote="131774393210000000" Dst="2" />
+</dwsync>

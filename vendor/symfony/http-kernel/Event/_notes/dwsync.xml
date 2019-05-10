@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FilterControllerArgumentsEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="FilterControllerEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="FilterResponseEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="FinishRequestEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="GetResponseEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="GetResponseForControllerResultEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="GetResponseForExceptionEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="KernelEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="PostResponseEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+</dwsync>

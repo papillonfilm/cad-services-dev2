@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="CHANGELOG.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="composer.json" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="Event.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="EventDispatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="EventDispatcherInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="EventSubscriberInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="GenericEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="ImmutableEventDispatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="LICENSE" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="phpunit.xml.dist" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="README.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+</dwsync>

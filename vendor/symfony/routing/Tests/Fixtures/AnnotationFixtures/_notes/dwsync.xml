@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractClassController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="ActionPathController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="DefaultValueController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="ExplicitLocalizedActionPathController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="InvokableController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="InvokableLocalizedController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="LocalizedActionPathController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="LocalizedMethodActionControllers.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="LocalizedPrefixLocalizedActionController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="LocalizedPrefixMissingLocaleActionController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="LocalizedPrefixMissingRouteLocaleActionController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="LocalizedPrefixWithRouteWithoutLocale.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="MethodActionControllers.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="MissingRouteNameController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="NothingButNameController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="PrefixedActionLocalizedRouteController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="PrefixedActionPathController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="RouteWithPrefixController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+</dwsync>

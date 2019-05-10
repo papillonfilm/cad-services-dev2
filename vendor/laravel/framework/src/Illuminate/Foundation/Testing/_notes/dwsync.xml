@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DatabaseMigrations.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="DatabaseTransactions.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="HttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="RefreshDatabase.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="RefreshDatabaseState.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="TestCase.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="TestResponse.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="WithFaker.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="WithoutEvents.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="WithoutMiddleware.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+</dwsync>

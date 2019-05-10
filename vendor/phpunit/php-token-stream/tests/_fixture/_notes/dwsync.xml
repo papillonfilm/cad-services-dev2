@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="classExtendsNamespacedClass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579630310713" remote="131774393400000000" Dst="2" />
+<file name="classInNamespace.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579630370719" remote="131774393400000000" Dst="2" />
+<file name="classInScopedNamespace.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579630430725" remote="131774393400000000" Dst="2" />
+<file name="classUsesNamespacedFunction.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579630490731" remote="131774393400000000" Dst="2" />
+<file name="class_with_method_named_empty.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579630550737" remote="131774393400000000" Dst="2" />
+<file name="class_with_method_that_declares_anonymous_class.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579630650747" remote="131774393400000000" Dst="2" />
+<file name="class_with_method_that_declares_anonymous_class2.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579630740756" remote="131774393400000000" Dst="2" />
+<file name="class_with_multiple_anonymous_classes_and_functions.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579630840766" remote="131774393400000000" Dst="2" />
+<file name="closure.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579630930775" remote="131774393400000000" Dst="2" />
+<file name="issue19.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579630970779" remote="131774393400000000" Dst="2" />
+<file name="issue30.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579631060788" remote="131774393400000000" Dst="2" />
+<file name="multipleNamespacesWithOneClassUsingBraces.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579631110793" remote="131774393400000000" Dst="2" />
+<file name="multipleNamespacesWithOneClassUsingNonBraceSyntax.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579631180800" remote="131774393400000000" Dst="2" />
+<file name="php-code-coverage-issue-424.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579631260808" remote="131774393400000000" Dst="2" />
+<file name="source.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579631330815" remote="131774393400000000" Dst="2" />
+<file name="source2.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579631410823" remote="131774393400000000" Dst="2" />
+<file name="source3.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579631480830" remote="131774393400000000" Dst="2" />
+<file name="source4.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579631580840" remote="131774393400000000" Dst="2" />
+<file name="source5.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579631660848" remote="131774393400000000" Dst="2" />
+</dwsync>

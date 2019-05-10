@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="QueryExecuted.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="StatementPrepared.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="TransactionBeginning.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="TransactionCommitted.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="TransactionRolledBack.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+</dwsync>

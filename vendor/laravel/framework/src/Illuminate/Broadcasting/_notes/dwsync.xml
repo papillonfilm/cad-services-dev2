@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BroadcastController.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="BroadcastEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="BroadcastException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="BroadcastManager.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="BroadcastServiceProvider.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="Channel.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="composer.json" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="InteractsWithSockets.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="PendingBroadcast.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="PresenceChannel.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="PrivateChannel.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+</dwsync>

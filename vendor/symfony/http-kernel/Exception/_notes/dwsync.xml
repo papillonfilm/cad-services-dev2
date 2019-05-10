@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDeniedHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="BadRequestHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="ConflictHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="GoneHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="HttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="HttpExceptionInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="LengthRequiredHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="MethodNotAllowedHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="NotAcceptableHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="NotFoundHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="PreconditionFailedHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="PreconditionRequiredHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="ServiceUnavailableHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="TooManyRequestsHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="UnauthorizedHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="UnprocessableEntityHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="UnsupportedMediaTypeHttpException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+</dwsync>

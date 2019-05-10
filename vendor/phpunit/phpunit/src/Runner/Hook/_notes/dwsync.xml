@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AfterIncompleteTestHook.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="AfterLastTestHook.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="AfterRiskyTestHook.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="AfterSkippedTestHook.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="AfterSuccessfulTestHook.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="AfterTestErrorHook.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="AfterTestFailureHook.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="AfterTestWarningHook.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="BeforeFirstTestHook.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="BeforeTestHook.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Hook.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TestHook.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TestListenerAdapter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+</dwsync>

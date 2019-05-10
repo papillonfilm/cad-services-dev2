@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomFilterIteratorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="DateRangeFilterIteratorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="DepthRangeFilterIteratorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="ExcludeDirectoryFilterIteratorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="FilecontentFilterIteratorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="FilenameFilterIteratorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="FileTypeFilterIteratorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="Iterator.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="IteratorTestCase.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="MockFileListIterator.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="MockSplFileInfo.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="MultiplePcreFilterIteratorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="PathFilterIteratorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="RealIteratorTestCase.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="RecursiveDirectoryIteratorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="SizeRangeFilterIteratorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="SortableIteratorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="CHANGELOG.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="Client.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="composer.json" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="HttpKernel.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="HttpKernelInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="Kernel.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="KernelEvents.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="KernelInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="LICENSE" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="phpunit.xml.dist" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="README.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="RebootableInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="TerminableInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="UriSigner.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+</dwsync>

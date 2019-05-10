@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractNode.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="AttributeNode.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="ClassNode.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="CombinedSelectorNode.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="ElementNode.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="FunctionNode.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="HashNode.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="NegationNode.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="NodeInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="PseudoNode.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="SelectorNode.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+<file name="Specificity.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770698450000000" remote="131770698450000000" Dst="2" />
+</dwsync>

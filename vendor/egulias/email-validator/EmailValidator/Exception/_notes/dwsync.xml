@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AtextAfterCFWS.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579033901078" remote="131774393210000000" Dst="2" />
+<file name="CharNotAllowed.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034141102" remote="131774393210000000" Dst="2" />
+<file name="CommaInDomain.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034201108" remote="131774393210000000" Dst="2" />
+<file name="ConsecutiveAt.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034261114" remote="131774393210000000" Dst="2" />
+<file name="ConsecutiveDot.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034321120" remote="131774393210000000" Dst="2" />
+<file name="CRLFAtTheEnd.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579033951083" remote="131774393210000000" Dst="2" />
+<file name="CRLFX2.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034011089" remote="131774393210000000" Dst="2" />
+<file name="CRNoLF.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034081096" remote="131774393210000000" Dst="2" />
+<file name="DomainHyphened.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034391127" remote="131774393210000000" Dst="2" />
+<file name="DotAtEnd.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034451133" remote="131774393210000000" Dst="2" />
+<file name="DotAtStart.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034511139" remote="131774393210000000" Dst="2" />
+<file name="ExpectingAT.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034581146" remote="131774393210000000" Dst="2" />
+<file name="ExpectingATEXT.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034631151" remote="131774393210000000" Dst="2" />
+<file name="ExpectingCTEXT.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034701158" remote="131774393210000000" Dst="2" />
+<file name="ExpectingDomainLiteralClose.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034821170" remote="131774393210000000" Dst="2" />
+<file name="ExpectingDTEXT.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034761164" remote="131774393210000000" Dst="2" />
+<file name="ExpectingQPair.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034871175" remote="131774393210000000" Dst="2" />
+<file name="InvalidEmail.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579034941182" remote="131774393210000000" Dst="2" />
+<file name="NoDNSRecord.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579035001188" remote="131774393210000000" Dst="2" />
+<file name="NoDomainPart.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579035011189" remote="131774393210000000" Dst="2" />
+<file name="NoLocalPart.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579035071195" remote="131774393210000000" Dst="2" />
+<file name="UnclosedComment.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579035131201" remote="131774393210000000" Dst="2" />
+<file name="UnclosedQuotedString.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579035191207" remote="131774393210000000" Dst="2" />
+<file name="UnopenedComment.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579035201208" remote="131774393210000000" Dst="2" />
+</dwsync>

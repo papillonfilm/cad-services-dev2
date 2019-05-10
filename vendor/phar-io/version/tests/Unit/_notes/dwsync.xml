@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractVersionConstraintTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="AndVersionConstraintGroupTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="AnyVersionConstraintTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="ExactVersionConstraintTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="GreaterThanOrEqualToVersionConstraintTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="OrVersionConstraintGroupTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="SpecificMajorAndMinorVersionConstraintTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="SpecificMajorVersionConstraintTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="VersionTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="PreReleaseSuffixTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+</dwsync>

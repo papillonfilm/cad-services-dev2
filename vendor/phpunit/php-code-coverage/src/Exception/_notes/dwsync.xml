@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CoveredCodeNotExecutedException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579644112093" remote="131774393390000000" Dst="2" />
+<file name="Exception.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579644182100" remote="131774393390000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579644262108" remote="131774393390000000" Dst="2" />
+<file name="MissingCoversAnnotationException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579644332115" remote="131774393390000000" Dst="2" />
+<file name="RuntimeException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579644392121" remote="131774393390000000" Dst="2" />
+<file name="UnintentionallyCoveredCodeException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579644492131" remote="131774393390000000" Dst="2" />
+</dwsync>

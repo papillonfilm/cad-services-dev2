@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Assert.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="AssertionFailedError.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="CodeCoverageException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="CoveredCodeNotExecutedException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="DataProviderTestSuite.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Exception.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="ExceptionWrapper.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="ExpectationFailedException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="IncompleteTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="IncompleteTestCase.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="IncompleteTestError.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="InvalidCoversTargetException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="MissingCoversAnnotationException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="OutputError.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="RiskyTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="RiskyTestError.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="SelfDescribing.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="SkippedTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="SkippedTestCase.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="SkippedTestError.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="SkippedTestSuiteError.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="SyntheticError.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Test.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TestCase.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TestFailure.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TestListener.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TestListenerDefaultImplementation.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TestResult.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TestSuite.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TestSuiteIterator.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="UnintentionallyCoveredCodeError.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Warning.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="WarningTestCase.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+</dwsync>

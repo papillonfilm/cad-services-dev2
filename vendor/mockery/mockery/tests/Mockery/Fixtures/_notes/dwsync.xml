@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassWithAllLowerCaseMethod.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579485866270" remote="131774393320000000" Dst="2" />
+<file name="ClassWithConstants.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579485936277" remote="131774393320000000" Dst="2" />
+<file name="MethodWithIterableTypeHints.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579486016285" remote="131774393320000000" Dst="2" />
+<file name="MethodWithNullableReturnType.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579486136297" remote="131774393320000000" Dst="2" />
+<file name="MethodWithNullableTypedParameter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579486226306" remote="131774393320000000" Dst="2" />
+<file name="MethodWithParametersWithDefaultValues.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579486306314" remote="131774393320000000" Dst="2" />
+<file name="MethodWithVoidReturnType.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579486386322" remote="131774393320000000" Dst="2" />
+<file name="SemiReservedWordsAsMethods.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579486696353" remote="131774393320000000" Dst="2" />
+</dwsync>

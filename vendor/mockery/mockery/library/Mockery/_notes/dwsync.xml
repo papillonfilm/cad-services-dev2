@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CompositeExpectation.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579476185302" remote="131774393320000000" Dst="2" />
+<file name="Configuration.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579476335317" remote="131774393320000000" Dst="2" />
+<file name="Container.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579476485332" remote="131774393320000000" Dst="2" />
+<file name="Exception.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579476965380" remote="131774393320000000" Dst="2" />
+<file name="Expectation.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579477565440" remote="131774393320000000" Dst="2" />
+<file name="ExpectationDirector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579477715455" remote="131774393320000000" Dst="2" />
+<file name="ExpectationInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579477785462" remote="131774393320000000" Dst="2" />
+<file name="ExpectsHigherOrderMessage.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579477895473" remote="131774393320000000" Dst="2" />
+<file name="HigherOrderMessage.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579480645748" remote="131774393320000000" Dst="2" />
+<file name="Instantiator.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579480745758" remote="131774393320000000" Dst="2" />
+<file name="MethodCall.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579483256009" remote="131774393320000000" Dst="2" />
+<file name="Mock.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579483426026" remote="131774393320000000" Dst="2" />
+<file name="MockInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579483566040" remote="131774393320000000" Dst="2" />
+<file name="ReceivedMethodCalls.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579483646048" remote="131774393320000000" Dst="2" />
+<file name="Undefined.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579483746058" remote="131774393320000000" Dst="2" />
+<file name="VerificationDirector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579483896073" remote="131774393320000000" Dst="2" />
+<file name="VerificationExpectation.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579483966080" remote="131774393320000000" Dst="2" />
+</dwsync>

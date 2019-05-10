@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Authenticatable.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="AuthenticationException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="AuthManager.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="AuthServiceProvider.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="composer.json" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="CreatesUserProviders.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="DatabaseUserProvider.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="EloquentUserProvider.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="GenericUser.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="GuardHelpers.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="Recaller.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="RequestGuard.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="SessionGuard.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+<file name="TokenGuard.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770944860000000" remote="131770944860000000" Dst="2" />
+</dwsync>

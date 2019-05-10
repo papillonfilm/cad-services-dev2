@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="common.inc" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="cookie_max_age.expected" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="cookie_max_age.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="cookie_raw_urlencode.expected" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="cookie_raw_urlencode.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="cookie_samesite_lax.expected" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="cookie_samesite_lax.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="cookie_samesite_strict.expected" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="cookie_samesite_strict.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="cookie_urlencode.expected" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="cookie_urlencode.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="invalid_cookie_name.expected" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="invalid_cookie_name.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+</dwsync>

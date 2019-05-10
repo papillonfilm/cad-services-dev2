@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractClassPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579293547040" remote="131774393440000000" Dst="2" />
+<file name="AssignThisVariablePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579293607046" remote="131774393440000000" Dst="2" />
+<file name="CalledClassPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579293817067" remote="131774393440000000" Dst="2" />
+<file name="CallTimePassByReferencePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579293697055" remote="131774393440000000" Dst="2" />
+<file name="CodeCleanerPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579293907076" remote="131774393440000000" Dst="2" />
+<file name="ExitPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579293987084" remote="131774393440000000" Dst="2" />
+<file name="FinalClassPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579294117097" remote="131774393440000000" Dst="2" />
+<file name="FunctionContextPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579294267112" remote="131774393440000000" Dst="2" />
+<file name="FunctionReturnInWriteContextPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579294407126" remote="131774393440000000" Dst="2" />
+<file name="ImplicitReturnPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579294547140" remote="131774393440000000" Dst="2" />
+<file name="InstanceOfPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579294657151" remote="131774393440000000" Dst="2" />
+<file name="LeavePsyshAlonePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579294737159" remote="131774393440000000" Dst="2" />
+<file name="LegacyEmptyPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579294857171" remote="131774393440000000" Dst="2" />
+<file name="ListPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579294937179" remote="131774393440000000" Dst="2" />
+<file name="LoopContextPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579295037189" remote="131774393440000000" Dst="2" />
+<file name="MagicConstantsPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579295137199" remote="131774393440000000" Dst="2" />
+<file name="NamespaceAwarePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579295247210" remote="131774393440000000" Dst="2" />
+<file name="NamespacePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579295387224" remote="131774393440000000" Dst="2" />
+<file name="NoReturnValue.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579295477233" remote="131774393440000000" Dst="2" />
+<file name="PassableByReferencePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579295717257" remote="131774393440000000" Dst="2" />
+<file name="RequirePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579295867272" remote="131774393440000000" Dst="2" />
+<file name="StrictTypesPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579295957281" remote="131774393440000000" Dst="2" />
+<file name="UseStatementPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579296047290" remote="131774393440000000" Dst="2" />
+<file name="ValidClassNamePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579296197305" remote="131774393440000000" Dst="2" />
+<file name="ValidConstantPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579296317317" remote="131774393440000000" Dst="2" />
+<file name="ValidConstructorPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579296467332" remote="131774393440000000" Dst="2" />
+<file name="ValidFunctionNamePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579296627348" remote="131774393440000000" Dst="2" />
+</dwsync>

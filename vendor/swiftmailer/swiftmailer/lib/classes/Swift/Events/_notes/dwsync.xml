@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="CommandListener.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="Event.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="EventDispatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="EventListener.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="EventObject.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="ResponseEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="ResponseListener.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="SendEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="SendListener.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="SimpleEventDispatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="TransportChangeEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="TransportChangeListener.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="TransportExceptionEvent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="TransportExceptionListener.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+</dwsync>

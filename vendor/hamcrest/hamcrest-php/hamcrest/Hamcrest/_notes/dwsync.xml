@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AssertionError.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579451702854" remote="131774393250000000" Dst="2" />
+<file name="BaseDescription.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579451782862" remote="131774393250000000" Dst="2" />
+<file name="BaseMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579451882872" remote="131774393250000000" Dst="2" />
+<file name="Description.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579454093093" remote="131774393250000000" Dst="2" />
+<file name="DiagnosingMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579454203104" remote="131774393250000000" Dst="2" />
+<file name="FeatureMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579454313115" remote="131774393250000000" Dst="2" />
+<file name="Matcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579454473131" remote="131774393250000000" Dst="2" />
+<file name="MatcherAssert.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579454593143" remote="131774393250000000" Dst="2" />
+<file name="Matchers.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579454773161" remote="131774393250000000" Dst="2" />
+<file name="NullDescription.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579454893173" remote="131774393250000000" Dst="2" />
+<file name="SelfDescribing.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579455223206" remote="131774393250000000" Dst="2" />
+<file name="StringDescription.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579455343218" remote="131774393250000000" Dst="2" />
+<file name="TypeSafeDiagnosingMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579457553439" remote="131774393250000000" Dst="2" />
+<file name="TypeSafeMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579457663450" remote="131774393250000000" Dst="2" />
+<file name="Util.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579457743458" remote="131774393250000000" Dst="2" />
+</dwsync>

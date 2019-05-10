@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractField.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579143332020" remote="131774393200000000" Dst="2" />
+<file name="CronExpression.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579143422029" remote="131774393200000000" Dst="2" />
+<file name="DayOfMonthField.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579143492036" remote="131774393200000000" Dst="2" />
+<file name="DayOfWeekField.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579143572044" remote="131774393200000000" Dst="2" />
+<file name="FieldFactory.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579143642051" remote="131774393200000000" Dst="2" />
+<file name="FieldInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579143712058" remote="131774393200000000" Dst="2" />
+<file name="HoursField.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579143782065" remote="131774393200000000" Dst="2" />
+<file name="MinutesField.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579143852072" remote="131774393200000000" Dst="2" />
+<file name="MonthField.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579143912078" remote="131774393200000000" Dst="2" />
+</dwsync>

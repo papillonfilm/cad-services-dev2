@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AndAnyOtherArgs.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579481125796" remote="131774393320000000" Dst="2" />
+<file name="Any.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579481225806" remote="131774393320000000" Dst="2" />
+<file name="AnyArgs.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579481325816" remote="131774393320000000" Dst="2" />
+<file name="AnyOf.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579481435827" remote="131774393320000000" Dst="2" />
+<file name="ArgumentListMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579481505834" remote="131774393320000000" Dst="2" />
+<file name="Closure.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579481605844" remote="131774393320000000" Dst="2" />
+<file name="Contains.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579481685852" remote="131774393320000000" Dst="2" />
+<file name="Ducktype.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579481795863" remote="131774393320000000" Dst="2" />
+<file name="HasKey.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579481905874" remote="131774393320000000" Dst="2" />
+<file name="HasValue.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579482005884" remote="131774393320000000" Dst="2" />
+<file name="MatcherAbstract.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579482085892" remote="131774393320000000" Dst="2" />
+<file name="MultiArgumentClosure.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579482195903" remote="131774393320000000" Dst="2" />
+<file name="MustBe.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579482305914" remote="131774393320000000" Dst="2" />
+<file name="NoArgs.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579482415925" remote="131774393320000000" Dst="2" />
+<file name="Not.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579482535937" remote="131774393320000000" Dst="2" />
+<file name="NotAnyOf.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579482645948" remote="131774393320000000" Dst="2" />
+<file name="Pattern.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579482885972" remote="131774393320000000" Dst="2" />
+<file name="PHPUnitConstraint.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579482775961" remote="131774393320000000" Dst="2" />
+<file name="Subset.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579483025986" remote="131774393320000000" Dst="2" />
+<file name="Type.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579483145998" remote="131774393320000000" Dst="2" />
+</dwsync>

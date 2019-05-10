@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Blacklist.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Configuration.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="ConfigurationGenerator.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="ErrorHandler.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="FileLoader.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Filesystem.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Filter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Getopt.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="GlobalState.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="InvalidArgumentHelper.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Json.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Printer.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="RegularExpression.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Test.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TextTestListRenderer.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Type.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="Xml.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="XmlTestListRenderer.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="NullTestResultCache.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TestResultCache.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+<file name="TestResultCacheInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131777497650000000" remote="131777497650000000" Dst="2" />
+</dwsync>

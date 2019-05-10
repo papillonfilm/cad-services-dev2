@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassPatchInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579706878369" remote="131774393380000000" Dst="2" />
+<file name="DisableConstructorPatch.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579706988380" remote="131774393380000000" Dst="2" />
+<file name="HhvmExceptionPatch.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579707098391" remote="131774393380000000" Dst="2" />
+<file name="KeywordPatch.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579707188400" remote="131774393380000000" Dst="2" />
+<file name="MagicCallPatch.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579707278409" remote="131774393380000000" Dst="2" />
+<file name="ProphecySubjectPatch.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579707418423" remote="131774393380000000" Dst="2" />
+<file name="ReflectionClassNewInstancePatch.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579707538435" remote="131774393380000000" Dst="2" />
+<file name="SplFileInfoPatch.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579707678449" remote="131774393380000000" Dst="2" />
+<file name="TraversablePatch.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579707808462" remote="131774393380000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="common.inc" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="empty_destroys.expected" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="empty_destroys.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="read_only.expected" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="read_only.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="regenerate.expected" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="regenerate.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="storage.expected" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="storage.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="with_cookie.expected" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="with_cookie.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="with_cookie_and_session.expected" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="with_cookie_and_session.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+</dwsync>

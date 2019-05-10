@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AddAnnotatedClassesToCachePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="ConfigurableExtension.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="ControllerArgumentValueResolverPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="Extension.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="FragmentRendererPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="LazyLoadingFragmentHandler.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="LoggerPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="MergeExtensionConfigurationPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="RegisterControllerArgumentLocatorsPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="RemoveEmptyControllerArgumentLocatorsPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="ResettableServicePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="ServicesResetter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+</dwsync>

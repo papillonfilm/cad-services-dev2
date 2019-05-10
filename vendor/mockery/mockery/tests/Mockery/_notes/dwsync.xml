@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdhocTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579484646148" remote="131774393320000000" Dst="2" />
+<file name="AllowsExpectsSyntaxTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579484766160" remote="131774393320000000" Dst="2" />
+<file name="ContainerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579485036187" remote="131774393320000000" Dst="2" />
+<file name="DemeterChainTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579485176201" remote="131774393320000000" Dst="2" />
+<file name="ExpectationTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579485756259" remote="131774393320000000" Dst="2" />
+<file name="GlobalHelpersTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579487916475" remote="131774393320000000" Dst="2" />
+<file name="HamcrestExpectationTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579487986482" remote="131774393320000000" Dst="2" />
+<file name="MockClassWithFinalWakeupTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579488756559" remote="131774393320000000" Dst="2" />
+<file name="MockClassWithMethodOverloadingTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579488866570" remote="131774393320000000" Dst="2" />
+<file name="MockClassWithUnknownTypeHintTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579488946578" remote="131774393320000000" Dst="2" />
+<file name="MockeryCanMockClassesWithSemiReservedWordsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579489176601" remote="131774393320000000" Dst="2" />
+<file name="MockeryCanMockMultipleInterfacesWhichOverlapTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579489296613" remote="131774393320000000" Dst="2" />
+<file name="MockingAllLowerCasedMethodsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579489376621" remote="131774393320000000" Dst="2" />
+<file name="MockingClassConstantsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579489456629" remote="131774393320000000" Dst="2" />
+<file name="MockingMethodsWithIterableTypeHintsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579489536637" remote="131774393320000000" Dst="2" />
+<file name="MockingMethodsWithNullableParametersTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579489616645" remote="131774393320000000" Dst="2" />
+<file name="MockingNullableMethodsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579489756659" remote="131774393320000000" Dst="2" />
+<file name="MockingOldStyleConstructorTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579489836667" remote="131774393320000000" Dst="2" />
+<file name="MockingParameterAndReturnTypesTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579490006684" remote="131774393320000000" Dst="2" />
+<file name="MockingProtectedMethodsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579490156699" remote="131774393320000000" Dst="2" />
+<file name="MockingVariadicArgumentsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579490256709" remote="131774393320000000" Dst="2" />
+<file name="MockingVoidMethodsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579490346718" remote="131774393320000000" Dst="2" />
+<file name="MockTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579489106594" remote="131774393320000000" Dst="2" />
+<file name="NamedMockTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579490456729" remote="131774393320000000" Dst="2" />
+<file name="Php72LanguageFeaturesTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579490556739" remote="131774393320000000" Dst="2" />
+<file name="SpyTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579490676751" remote="131774393320000000" Dst="2" />
+<file name="TraitsTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579490936777" remote="131774393320000000" Dst="2" />
+<file name="WithFormatterExpectationTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579491086792" remote="131774393320000000" Dst="2" />
+</dwsync>

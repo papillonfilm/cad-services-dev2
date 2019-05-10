@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitattributes" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579642421924" remote="131774393380000000" Dst="2" />
+<file name=".gitignore" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579642581940" remote="131774393390000000" Dst="2" />
+<file name=".php_cs.dist" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579642731955" remote="131774393390000000" Dst="2" />
+<file name=".travis.yml" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579642771959" remote="131774393390000000" Dst="2" />
+<file name="build.xml" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579643422024" remote="131774393390000000" Dst="2" />
+<file name="ChangeLog-2.2.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579642821964" remote="131774393390000000" Dst="2" />
+<file name="ChangeLog-3.0.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579642861968" remote="131774393390000000" Dst="2" />
+<file name="ChangeLog-3.1.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579642901972" remote="131774393390000000" Dst="2" />
+<file name="ChangeLog-3.2.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579642941976" remote="131774393390000000" Dst="2" />
+<file name="ChangeLog-3.3.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579642981980" remote="131774393390000000" Dst="2" />
+<file name="ChangeLog-4.0.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579643031985" remote="131774393390000000" Dst="2" />
+<file name="ChangeLog-5.0.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579643061988" remote="131774393390000000" Dst="2" />
+<file name="ChangeLog-5.1.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579643101992" remote="131774393390000000" Dst="2" />
+<file name="ChangeLog-5.2.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579643151997" remote="131774393390000000" Dst="2" />
+<file name="ChangeLog-5.3.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579643192001" remote="131774393390000000" Dst="2" />
+<file name="ChangeLog-6.0.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579643242006" remote="131774393390000000" Dst="2" />
+<file name="composer.json" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579643472029" remote="131774393390000000" Dst="2" />
+<file name="LICENSE" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579643272009" remote="131774393390000000" Dst="2" />
+<file name="phpunit.xml" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579643512033" remote="131774393390000000" Dst="2" />
+<file name="README.md" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579643382020" remote="131774393390000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ExceptionInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="InvalidParameterException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="MethodNotAllowedException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="MissingMandatoryParametersException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="NoConfigurationException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="ResourceNotFoundException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+<file name="RouteNotFoundException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131770778710000000" remote="131770778710000000" Dst="2" />
+</dwsync>

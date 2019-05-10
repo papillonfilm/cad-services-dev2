@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractPlugin.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579136671354" remote="131774393310000000" Dst="2" />
+<file name="EmptyDir.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579136741361" remote="131774393310000000" Dst="2" />
+<file name="ForcedCopy.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579136851372" remote="131774393310000000" Dst="2" />
+<file name="ForcedRename.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579136951382" remote="131774393310000000" Dst="2" />
+<file name="GetWithMetadata.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579137021389" remote="131774393310000000" Dst="2" />
+<file name="ListFiles.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579137121399" remote="131774393310000000" Dst="2" />
+<file name="ListPaths.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579137191406" remote="131774393310000000" Dst="2" />
+<file name="ListWith.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579137261413" remote="131774393310000000" Dst="2" />
+<file name="PluggableTrait.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579137411428" remote="131774393310000000" Dst="2" />
+<file name="PluginNotFoundException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579137471434" remote="131774393310000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734578954323121" remote="131774393440000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734578954373126" remote="131774393440000000" Dst="2" />
+<file name="LoggerAwareInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734578954503139" remote="131774393440000000" Dst="2" />
+<file name="LoggerAwareTrait.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734578954513140" remote="131774393440000000" Dst="2" />
+<file name="LoggerInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734578954623151" remote="131774393440000000" Dst="2" />
+<file name="LoggerTrait.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734578954733162" remote="131774393440000000" Dst="2" />
+<file name="LogLevel.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734578954443133" remote="131774393440000000" Dst="2" />
+<file name="NullLogger.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734578954823171" remote="131774393440000000" Dst="2" />
+</dwsync>

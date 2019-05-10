@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractRedisSessionHandlerTestCase.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="AbstractSessionHandlerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="MemcachedSessionHandlerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="MigratingSessionHandlerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="MongoDbSessionHandlerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="NativeFileSessionHandlerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="NullSessionHandlerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="PdoSessionHandlerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="PredisClusterSessionHandlerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="PredisSessionHandlerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="RedisArraySessionHandlerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="RedisSessionHandlerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+<file name="StrictSessionHandlerTest.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776060640000000" remote="131776060640000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractAdapter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579134181105" remote="131774393310000000" Dst="2" />
+<file name="AbstractFtpAdapter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579134281115" remote="131774393310000000" Dst="2" />
+<file name="CanOverwriteFiles.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579134351122" remote="131774393310000000" Dst="2" />
+<file name="Ftp.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579134441131" remote="131774393310000000" Dst="2" />
+<file name="Ftpd.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579134551142" remote="131774393310000000" Dst="2" />
+<file name="Local.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579134651152" remote="131774393310000000" Dst="2" />
+<file name="NullAdapter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579134751162" remote="131774393310000000" Dst="2" />
+<file name="SynologyFtp.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579135271214" remote="131774393310000000" Dst="2" />
+</dwsync>

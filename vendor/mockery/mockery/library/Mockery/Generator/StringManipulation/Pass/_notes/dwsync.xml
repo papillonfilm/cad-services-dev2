@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CallTypeHintPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579478925576" remote="131774393320000000" Dst="2" />
+<file name="ClassNamePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579479045588" remote="131774393320000000" Dst="2" />
+<file name="ClassPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579479155599" remote="131774393320000000" Dst="2" />
+<file name="ConstantsPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579479215605" remote="131774393320000000" Dst="2" />
+<file name="InstanceMockPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579479315615" remote="131774393320000000" Dst="2" />
+<file name="InterfacePass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579479435627" remote="131774393320000000" Dst="2" />
+<file name="MagicMethodTypeHintsPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579479515635" remote="131774393320000000" Dst="2" />
+<file name="MethodDefinitionPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579479615645" remote="131774393320000000" Dst="2" />
+<file name="Pass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579479685652" remote="131774393320000000" Dst="2" />
+<file name="RemoveBuiltinMethodsThatAreFinalPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579479855669" remote="131774393320000000" Dst="2" />
+<file name="RemoveDestructorPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579479955679" remote="131774393320000000" Dst="2" />
+<file name="RemoveUnserializeForInternalSerializableClassesPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579480065690" remote="131774393320000000" Dst="2" />
+<file name="TraitPass.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579480175701" remote="131774393320000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ca.crt" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="ca.key" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="CA.srl" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="create-cert.sh" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="encrypt.crt" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="encrypt.key" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="encrypt2.crt" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="encrypt2.key" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="intermediate.crt" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="intermediate.key" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="sign.crt" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="sign.key" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="sign2.crt" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="sign2.key" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+</dwsync>

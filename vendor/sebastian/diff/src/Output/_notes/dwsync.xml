@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractChunkOutputBuilder.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579572974980" remote="131774393470000000" Dst="2" />
+<file name="DiffOnlyOutputBuilder.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579573054988" remote="131774393470000000" Dst="2" />
+<file name="DiffOutputBuilderInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579573124995" remote="131774393470000000" Dst="2" />
+<file name="StrictUnifiedDiffOutputBuilder.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579573215004" remote="131774393470000000" Dst="2" />
+<file name="UnifiedDiffOutputBuilder.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579573285011" remote="131774393470000000" Dst="2" />
+</dwsync>

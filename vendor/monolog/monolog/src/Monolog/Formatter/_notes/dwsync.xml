@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ChromePHPFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579113439031" remote="131774393330000000" Dst="2" />
+<file name="ElasticaFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579113559043" remote="131774393330000000" Dst="2" />
+<file name="FlowdockFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579113639051" remote="131774393330000000" Dst="2" />
+<file name="FluentdFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579113719059" remote="131774393330000000" Dst="2" />
+<file name="FormatterInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579113789066" remote="131774393330000000" Dst="2" />
+<file name="GelfMessageFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579113889076" remote="131774393330000000" Dst="2" />
+<file name="HtmlFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579113969084" remote="131774393330000000" Dst="2" />
+<file name="JsonFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579113979085" remote="131774393330000000" Dst="2" />
+<file name="LineFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579114109098" remote="131774393330000000" Dst="2" />
+<file name="LogglyFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579114219109" remote="131774393330000000" Dst="2" />
+<file name="LogstashFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579114329120" remote="131774393330000000" Dst="2" />
+<file name="MongoDBFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579114419129" remote="131774393330000000" Dst="2" />
+<file name="NormalizerFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579114509138" remote="131774393330000000" Dst="2" />
+<file name="ScalarFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579114589146" remote="131774393330000000" Dst="2" />
+<file name="WildfireFormatter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579114689156" remote="131774393330000000" Dst="2" />
+</dwsync>

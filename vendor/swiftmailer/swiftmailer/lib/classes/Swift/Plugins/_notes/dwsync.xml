@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AntiFloodPlugin.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="BandwidthMonitorPlugin.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="DecoratorPlugin.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="ImpersonatePlugin.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="Logger.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="LoggerPlugin.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="MessageLogger.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="PopBeforeSmtpPlugin.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="RedirectingPlugin.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="Reporter.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="ReporterPlugin.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="Sleeper.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="ThrottlerPlugin.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="Timer.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+</dwsync>

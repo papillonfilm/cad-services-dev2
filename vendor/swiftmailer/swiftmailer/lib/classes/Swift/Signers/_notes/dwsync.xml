@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BodySigner.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="DKIMSigner.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="DomainKeySigner.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="HeaderSigner.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="OpenDKIMSigner.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="SMimeSigner.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+</dwsync>

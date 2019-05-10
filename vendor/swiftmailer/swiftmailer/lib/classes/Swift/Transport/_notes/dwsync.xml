@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpTransport.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="EsmtpHandler.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="EsmtpTransport.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="FailoverTransport.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="IoBuffer.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="LoadBalancedTransport.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="NullTransport.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="SendmailTransport.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="SmtpAgent.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="SpoolTransport.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+<file name="StreamBuffer.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131759390750000000" remote="131759390750000000" Dst="2" />
+</dwsync>

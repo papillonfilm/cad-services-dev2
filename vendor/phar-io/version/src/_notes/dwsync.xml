@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractVersionConstraint.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579719859667" remote="131774393370000000" Dst="2" />
+<file name="AndVersionConstraintGroup.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579719949676" remote="131774393370000000" Dst="2" />
+<file name="AnyVersionConstraint.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579720049686" remote="131774393370000000" Dst="2" />
+<file name="ExactVersionConstraint.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579720149696" remote="131774393370000000" Dst="2" />
+<file name="Exception.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579720329714" remote="131774393370000000" Dst="2" />
+<file name="GreaterThanOrEqualToVersionConstraint.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579720389720" remote="131774393370000000" Dst="2" />
+<file name="InvalidVersionException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579720449726" remote="131774393370000000" Dst="2" />
+<file name="OrVersionConstraintGroup.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579720549736" remote="131774393370000000" Dst="2" />
+<file name="PreReleaseSuffix.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="SpecificMajorAndMinorVersionConstraint.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579720769758" remote="131774393370000000" Dst="2" />
+<file name="SpecificMajorVersionConstraint.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579720879769" remote="131774393370000000" Dst="2" />
+<file name="UnsupportedVersionConstraintException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579720939775" remote="131774393370000000" Dst="2" />
+<file name="Version.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="VersionConstraint.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579721159797" remote="131774393370000000" Dst="2" />
+<file name="VersionConstraintParser.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="VersionConstraintValue.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+<file name="VersionNumber.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131755511970000000" remote="131755511970000000" Dst="2" />
+</dwsync>

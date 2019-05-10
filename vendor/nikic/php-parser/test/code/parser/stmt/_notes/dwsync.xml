@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="blocklessStatement.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="const.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="controlFlow.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="declare.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="echo.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="haltCompiler.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="haltCompilerInvalidSyntax.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="haltCompilerOffset.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="haltCompilerOutermostScope.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="hashbang.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="if.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="inlineHTML.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="multiCatch.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="switch.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="tryCatch.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="tryWithoutCatch.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+<file name="unset.test" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131761491160000000" remote="131761491160000000" Dst="2" />
+</dwsync>

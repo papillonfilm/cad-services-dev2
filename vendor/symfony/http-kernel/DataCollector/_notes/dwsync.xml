@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AjaxDataCollector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="ConfigDataCollector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="DataCollector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="DataCollectorInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="DumpDataCollector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="EventDataCollector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="ExceptionDataCollector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="LateDataCollectorInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="LoggerDataCollector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="MemoryDataCollector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="RequestDataCollector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="RouterDataCollector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+<file name="TimeDataCollector.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131776110340000000" remote="131776110340000000" Dst="2" />
+</dwsync>

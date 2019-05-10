@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BufferCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579296767362" remote="131774393440000000" Dst="2" />
+<file name="ClearCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579296857371" remote="131774393450000000" Dst="2" />
+<file name="Command.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579296947380" remote="131774393450000000" Dst="2" />
+<file name="DocCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579297107396" remote="131774393450000000" Dst="2" />
+<file name="DumpCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579297247410" remote="131774393450000000" Dst="2" />
+<file name="EditCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579297477433" remote="131774393450000000" Dst="2" />
+<file name="ExitCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579297577443" remote="131774393450000000" Dst="2" />
+<file name="HelpCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579297657451" remote="131774393450000000" Dst="2" />
+<file name="HistoryCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579297737459" remote="131774393450000000" Dst="2" />
+<file name="ListCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579297837469" remote="131774393450000000" Dst="2" />
+<file name="ParseCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579299087594" remote="131774393450000000" Dst="2" />
+<file name="PsyVersionCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579299167602" remote="131774393450000000" Dst="2" />
+<file name="ReflectingCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579299317617" remote="131774393450000000" Dst="2" />
+<file name="ShowCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579299477633" remote="131774393450000000" Dst="2" />
+<file name="SudoCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579299637649" remote="131774393450000000" Dst="2" />
+<file name="ThrowUpCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579299777663" remote="131774393450000000" Dst="2" />
+<file name="TimeitCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579299947680" remote="131774393450000000" Dst="2" />
+<file name="TraceCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579300357721" remote="131774393450000000" Dst="2" />
+<file name="WhereamiCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579300527738" remote="131774393450000000" Dst="2" />
+<file name="WtfCommand.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579300677753" remote="131774393450000000" Dst="2" />
+</dwsync>

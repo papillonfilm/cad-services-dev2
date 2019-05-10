@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractContextAwareMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579306668352" remote="131774393450000000" Dst="2" />
+<file name="AbstractDefaultParametersMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579306748360" remote="131774393450000000" Dst="2" />
+<file name="AbstractMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579306908376" remote="131774393450000000" Dst="2" />
+<file name="ClassAttributesMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579307038389" remote="131774393450000000" Dst="2" />
+<file name="ClassMethodDefaultParametersMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579307148400" remote="131774393450000000" Dst="2" />
+<file name="ClassMethodsMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579307268412" remote="131774393450000000" Dst="2" />
+<file name="ClassNamesMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579307408426" remote="131774393450000000" Dst="2" />
+<file name="CommandsMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579307488434" remote="131774393450000000" Dst="2" />
+<file name="ConstantsMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579307608446" remote="131774393450000000" Dst="2" />
+<file name="FunctionDefaultParametersMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579307728458" remote="131774393450000000" Dst="2" />
+<file name="FunctionsMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579307878473" remote="131774393450000000" Dst="2" />
+<file name="KeywordsMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579308008486" remote="131774393450000000" Dst="2" />
+<file name="MongoClientMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579308148500" remote="131774393450000000" Dst="2" />
+<file name="MongoDatabaseMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579308348520" remote="131774393450000000" Dst="2" />
+<file name="ObjectAttributesMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579308448530" remote="131774393450000000" Dst="2" />
+<file name="ObjectMethodDefaultParametersMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579308598545" remote="131774393450000000" Dst="2" />
+<file name="ObjectMethodsMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579308738559" remote="131774393450000000" Dst="2" />
+<file name="VariablesMatcher.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579308868572" remote="131774393450000000" Dst="2" />
+</dwsync>

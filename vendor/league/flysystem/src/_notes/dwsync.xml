@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdapterInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579135391226" remote="131774393310000000" Dst="2" />
+<file name="Config.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579135501237" remote="131774393310000000" Dst="2" />
+<file name="ConfigAwareTrait.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579135601247" remote="131774393310000000" Dst="2" />
+<file name="Directory.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579135721259" remote="131774393310000000" Dst="2" />
+<file name="Exception.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579135791266" remote="131774393310000000" Dst="2" />
+<file name="File.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579135961283" remote="131774393310000000" Dst="2" />
+<file name="FileExistsException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579136061293" remote="131774393310000000" Dst="2" />
+<file name="FileNotFoundException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579136151302" remote="131774393310000000" Dst="2" />
+<file name="Filesystem.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579136251312" remote="131774393310000000" Dst="2" />
+<file name="FilesystemInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579136351322" remote="131774393310000000" Dst="2" />
+<file name="FilesystemNotFoundException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579136411328" remote="131774393310000000" Dst="2" />
+<file name="Handler.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579136491336" remote="131774393310000000" Dst="2" />
+<file name="MountManager.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579136581345" remote="131774393310000000" Dst="2" />
+<file name="NotSupportedException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579136601347" remote="131774393310000000" Dst="2" />
+<file name="PluginInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579137531440" remote="131774393310000000" Dst="2" />
+<file name="ReadInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579137621449" remote="131774393310000000" Dst="2" />
+<file name="RootViolationException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579137681455" remote="131774393310000000" Dst="2" />
+<file name="SafeStorage.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579137791466" remote="131774393310000000" Dst="2" />
+<file name="UnreadableFileException.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579137801467" remote="131774393310000000" Dst="2" />
+<file name="Util.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579137891476" remote="131774393310000000" Dst="2" />
+</dwsync>

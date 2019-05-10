@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CallbackHandler.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579498507534" remote="131774393210000000" Dst="2" />
+<file name="Handler.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579498607544" remote="131774393210000000" Dst="2" />
+<file name="HandlerInterface.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579498677551" remote="131774393210000000" Dst="2" />
+<file name="JsonResponseHandler.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579498807564" remote="131774393210000000" Dst="2" />
+<file name="PlainTextHandler.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579498937577" remote="131774393210000000" Dst="2" />
+<file name="PrettyPageHandler.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579499047588" remote="131774393210000000" Dst="2" />
+<file name="XmlResponseHandler.php" server="vidal-lar.15thcircuit.com//var/www/vidal-lar/" local="131734579499147598" remote="131774393210000000" Dst="2" />
+</dwsync>
